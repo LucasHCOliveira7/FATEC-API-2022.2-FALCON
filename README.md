@@ -1,24 +1,30 @@
 <div align="center">
 
-# FATEC-API-2022.2-FALCON
-Projeto desenvolvido no 2° Semestre/2022 de BD (Banco de Dados) na Fatec São José dos Campos - Prof. Jessen Vidal
+![Capa Falcon-API](https://user-images.githubusercontent.com/81196630/194436341-7d3a119d-992b-4526-a917-f550c4f559d8.png)
 
 </div>
 
-<div align="center">
+<br>
+
+# OBJETIVO
+Apoiar a instituição de ensino PBLTeX, especializada em cursos práticas de ensino aplicando PBL (Problem Based Learning), a desenvolver uma dinâmica de **Avaliação
+Democratizada** baseada na técnica de Avaliação 360º. O grupo deve apoiá-la a levantar, especificar e desenvolver uma
+solução computacional que viabilize a aplicação dessa técnica.
 
 <br>
 
-## EQUIPE DE DESENVOLVIMENTO
+# EQUIPE DE DESENVOLVIMENTO
+| **FUNÇÃO** | **NOME** | **GITHUB** |ㅤㅤㅤ-ㅤㅤㅤ| **FUNÇÃO** | **NOME** | **GITHUB** |
+|:------:|:----:|:------:|:------:|:------:|:----:|:------:|
+| Product Owner | Lucas Henrique | <a href="https://github.com/LucasHCOliveira7" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |ㅤㅤㅤ-ㅤㅤㅤ| Scrum Master | Lucas Jonathan | <a href="https://github.com/lucasjonathangomes" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
+| Developer | Lucas Augusto | <a href="https://github.com/LucasOliveira321" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |ㅤㅤㅤ-ㅤㅤㅤ| Developer | Lukas Fernando | <a href="https://github.com/LukasFernando" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
+| Developer | Igor Cerutti | <a href="https://github.com/IgorCerruti96" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |ㅤㅤㅤ-ㅤㅤㅤ| Developer | Mateus Pereira | <a href="https://github.com/MateusPCesare" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
+| Developer | Renato Mendes |<a href="https://github.com/RenatoCMMendes" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |ㅤㅤㅤ-ㅤㅤㅤ| Developer | Matheus Estevam | - |
 
-PRODUCT OWNER | SCRUM MASTER | DEVELOPER | DEVELOPER | DEVELOPER | DEVELOPER | DEVELOPER | DEVELOPER
------|-----|-----|-----|-----|-----|-----|-----|
-Lucas Henrique | Lucas Jonathan | Lucas Augusto | Lukas Fernando | Igor Cerutti | Matheus Estevam | Mateus Pereira | Renato Costa 
- <a href="https://github.com/LucasHCOliveira7" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=" https://github.com/lucasjonathangomes" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://github.com/LucasOliveira321" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://github.com/LukasFernando" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://github.com/IgorCerruti96" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> | - | <a href="https://github.com/MateusPCesare" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://github.com/RenatoCMMendes" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <br>
 
-# **PROJETO EM DESENVOLVIMENTO**
-<a href="https://github.com/lucasjonathangomes/Falcon" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+# **ACESSE NOSSO PROJETO**
+<a href="https://github.com/lucasjonathangomes/Falcon" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="50" width="140"></a>
 
 </div>
