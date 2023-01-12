@@ -18,8 +18,8 @@ solução computacional que viabilize a aplicação dessa técnica.
 |:------:|:----:|:------:|:------:|:------:|:----:|:------:|
 | Product Owner | Lucas Henrique | <a href="https://github.com/LucasHCOliveira7" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |ㅤㅤㅤ-ㅤㅤㅤ| Scrum Master | Lucas Jonathan | <a href="https://github.com/lucasjonathangomes" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Developer | Lucas Augusto | <a href="https://github.com/LucasOliveira321" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |ㅤㅤㅤ-ㅤㅤㅤ| Developer | Lukas Fernando | <a href="https://github.com/LukasFernando" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
-| Developer | Igor Cerutti | <a href="https://github.com/IgorCerruti96" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |ㅤㅤㅤ-ㅤㅤㅤ| Developer | Mateus Pereira | <a href="https://github.com/MateusPCesare" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |
-| Developer | Renato Mendes |<a href="https://github.com/RenatoCMMendes" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> |ㅤㅤㅤ-ㅤㅤㅤ| Developer | Matheus Estevam | - |
+| Developer | Igor Cerutti |ㅤㅤㅤ-ㅤㅤㅤ|ㅤㅤㅤ-ㅤㅤㅤ| Developer | Mateus Pereira |ㅤㅤㅤ-ㅤㅤㅤ|
+| Developer | Renato Mendes |ㅤㅤㅤ-ㅤㅤㅤ|ㅤㅤㅤ-ㅤㅤㅤ| Developer | Matheus Estevam |ㅤㅤㅤ-ㅤㅤㅤ|
 
 
 <br>
